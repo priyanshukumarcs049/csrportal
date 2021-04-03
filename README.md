@@ -1,1 +1,1 @@
-# csrportal
+# student_management_system
